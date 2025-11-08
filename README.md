@@ -9,6 +9,33 @@
 
 ---
 
+## 📑 Table of Contents
+- 🎯 [Project Overview](#-project-overview)
+- 🖼️ [Project Thumbnail](#-project-thumbnail)
+- 🏗️ [Model Architecture](#-model-architecture)
+  - Layer-by-Layer Description
+  - Model Compilation
+  - Summary Table
+- 📈 [Accuracy & Loss Over Epochs](#-accuracy--loss-over-epochs)
+- ⚙️ [Features](#-features)
+- 📁 [Project Structure](#-project-structure)
+- 🧰 [Getting Started](#-getting-started)
+  - Prerequisites
+  - Installation
+- 🚀 [Quick Start](#-quick-start)
+  - Training the Model
+  - Using the Notebook
+- 📦 [Dataset Sample](#-dataset-sample)
+- 🔧 [Customization](#-customization)
+- 🛠️ [Configuration](#-configuration)
+- 📊 [Results & Performance](#-results--performance)
+- 🤝 [Contributing](#-contributing)
+- 📜 [License](#-license)
+- 🙏 [Acknowledgements](#-acknowledgements)
+- 👤 [Author](#-author)
+
+---
+
 ## 🎯 Project Overview
 This repository provides a **complete CNN workflow** for image classification:
 
