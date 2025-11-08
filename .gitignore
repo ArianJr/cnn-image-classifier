@@ -217,3 +217,7 @@ __pycache__/
 *.h5
 *.ckpt
 logs/
+
+.DS_Store
+*.pyc
+__pycache__/
