@@ -1,8 +1,13 @@
 # CNN Image Classifier 🖼️
 
-[![Python](https://img.shields.io/badge/python-3.9+-blue)](https://www.python.org/)  
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)  
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-2.15-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+</p>
+
 
 > A modular, end-to-end Convolutional Neural Network (CNN) for image classification built with TensorFlow/Keras.  
 > Designed for researchers, students, and developers to train, evaluate, and deploy image classifiers efficiently.
