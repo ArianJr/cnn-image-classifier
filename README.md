@@ -121,7 +121,28 @@ Visualizations generated during training provide insights into model performance
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
+
+| Path                         | Description                              |
+|-----------------------------|------------------------------------------|
+| `assets/`                   | Thumbnail and performance plots          |
+| ├── `cnn_image_classifier_thumbnail.png` | Project thumbnail image         |
+| ├── `accuracy_over_epochs.png`          | Accuracy plot over training     |
+| └── `loss_over_epochs.png`              | Loss plot over training         |
+| `dataset/`                  | Sample dataset (cats & dogs)             |
+| ├── `training_set/`         | Training images                          |
+| └── `test_set/`             | Testing images                           |
+| `notebook/`                 | Main Jupyter notebook                    |
+| └── `cnn_image_classifier_main.ipynb`   | Contains training and evaluation |
+| `src/`                      | Modular code components                  |
+| └── `__init__.py`           | Marks `src/` as a Python package         |
+| ├── `model.py`              | CNN architecture                         |
+| └── `data.py`               | Data loading and preprocessing           |
+| `saved_model/`              | (Optional) Saved trained model           |
+| └── `cnn_model.h5`          | Saved model file                         |
+| `.gitignore`                | Git ignore rules                         |
+| `LICENSE`                   | Project license                          |
+| `README.md`                 | Project documentation                    |
 
 ---
 
