@@ -10,6 +10,10 @@
   <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 </p>
 
+![PYTHON](https://img.shields.io/badge/PYTHON-3.8-blue?logo=python&logoColor=white)
+![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-2.x-orange?logo=tensorflow&logoColor=white)
+![KERAS](https://img.shields.io/badge/KERAS-API-red?logo=keras&logoColor=white)
+
 > A modular, end-to-end Convolutional Neural Network (CNN) for image classification built with TensorFlow/Keras.  
 > Designed for researchers, students, and developers to train, evaluate, and deploy image classifiers efficiently.
 
