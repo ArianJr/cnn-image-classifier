@@ -1,4 +1,4 @@
-# CNN Image Classifier 🖼️🤖
+# CNN Image Classifier 🖼️
 
 [![Python](https://img.shields.io/badge/python-3.9+-blue)](https://www.python.org/)  
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)  
