@@ -166,6 +166,18 @@ For full-scale training, download the complete dataset from [Kaggle](https://www
 
 ---
 
+## ⚙️ Configuration
+All hyperparameters and paths are defined in `config.yaml`. Example:
+```yaml
+input_shape: [64, 64, 3]
+epochs: 25
+batch_size: 32
+train_dir: dataset/training_set
+test_dir: dataset/test_set\
+```
+
+---
+
 ## 📈 Results & Performance
 | Metric                  | Value        |
 |-------------------------|-------------|
