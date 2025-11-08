@@ -71,8 +71,6 @@ The CNN model is designed for binary image classification with a simple yet effe
 | Dense (128 neurons)  | 128               | 802,944         |
 | Output Dense         | 1               |  129           |
 
-> **Note:** Replace `num_classes` with the actual number of classes in your dataset (1 for binary classification, or more if adapted).
-
 ---
 
 ## 📊 Accuracy & Loss Over Epochs
