@@ -167,14 +167,19 @@ For full-scale training, download the complete dataset from [Kaggle](https://www
 ---
 
 ## ⚙️ Configuration
-All hyperparameters and paths are defined in `config.yaml`. Example:
-```yaml
-input_shape: [64, 64, 3]
-epochs: 25
-batch_size: 32
-train_dir: dataset/training_set
-test_dir: dataset/test_set\
-```
+
+This project is designed to be easily customizable. You can modify key training parameters directly in the code files:
+
+| Parameter       | Location             | Default Value |
+|----------------|----------------------|---------------|
+| `input_shape`  | `model.py`           | `(64, 64, 3)` |
+| `epochs`       | `train.py`           | `25`          |
+| `batch_size`   | `train.py`           | `32`          |
+| `train_dir`    | `data.py` or `train.py` | `dataset/training_set` |
+| `test_dir`     | `data.py` or `train.py` | `dataset/test_set` |
+| `model_path`   | `train.py`           | `saved_model/cnn_model.h5` |
+
+These values can be adjusted to suit your dataset size, image resolution, or training goals.
 
 ---
 
