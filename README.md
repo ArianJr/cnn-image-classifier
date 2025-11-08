@@ -173,11 +173,11 @@ This project is designed to be easily customizable. You can modify key training 
 | Parameter       | Location             | Default Value |
 |----------------|----------------------|---------------|
 | `input_shape`  | `model.py`           | `(64, 64, 3)` |
-| `epochs`       | `train.py`           | `25`          |
-| `batch_size`   | `train.py`           | `32`          |
-| `train_dir`    | `data.py` or `train.py` | `dataset/training_set` |
-| `test_dir`     | `data.py` or `train.py` | `dataset/test_set` |
-| `model_path`   | `train.py`           | `saved_model/cnn_model.h5` |
+| `epochs`       | `cnn_image_classifier.ipynb`        | `25`          |
+| `batch_size`   | `cnn_image_classifier.ipynb`        | `32`          |
+| `train_dir`    | `data.py`                          | `dataset/training_set` |
+| `test_dir`     | `data.py`                          | `dataset/test_set`     |
+| `model_path`   | `cnn_image_classifier.ipynb`          | `saved_model/cnn_model.h5` |
 
 These values can be adjusted to suit your dataset size, image resolution, or training goals.
 
