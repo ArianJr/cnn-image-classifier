@@ -1,15 +1,5 @@
 # CNN Image Classifier 🖼️
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
-  <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-</p>
-
 ![PYTHON](https://img.shields.io/badge/PYTHON-3.8-blue?logo=python&logoColor=white)
 ![TENSORFLOW](https://img.shields.io/badge/TENSORFLOW-2.x-orange?logo=tensorflow&logoColor=white)
 ![KERAS](https://img.shields.io/badge/KERAS-API-red?logo=keras&logoColor=white)
