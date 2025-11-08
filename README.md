@@ -24,7 +24,7 @@ It’s designed to be **modular, readable, and easy to extend** for custom datas
 
 ## 📸 Project Thumbnail
 
-![Project Thumbnail](assets/thumbnail.png)  
+![Project Thumbnail](assets/cnn_image_classifier_thumbnail.png)  
 *Visual representation of the CNN Image Classifier workflow.*
 
 ---
