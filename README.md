@@ -140,6 +140,7 @@ Visualizations generated during training provide insights into model performance
 | └── `data.py`               | Data loading and preprocessing           |
 | `saved_model/`              | (Optional) Saved trained model           |
 | └── `cnn_model.h5`          | Saved model file                         |
+| `requirements.txt`          | Python dependencies for reproducibility  |
 | `.gitignore`                | Git ignore rules                         |
 | `LICENSE`                   | Project license                          |
 | `README.md`                 | Project documentation                    |
