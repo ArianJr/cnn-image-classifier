@@ -257,7 +257,7 @@ MIT License – see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgements
 - TensorFlow & Keras communities for excellent tools.  
-- Open-source datasets used for training (acknowledge your dataset).  
+- Open-source datasets used for training.  
 - Tutorials and guides on CNNs that inspired this workflow.
 
 ---
